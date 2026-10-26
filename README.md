@@ -5,4 +5,4 @@
 - Operating Systems
 - Data Structures and Algorithms
 - Programming practice and experiments
-  *i'm using this repository to document my learning journey,practice coding,and build a soild foundation in computer scinece.*
+*I'm using this repository to document my learning journey,practice coding,and build a soild foundation in computer scinece.*
